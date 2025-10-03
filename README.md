@@ -1,4 +1,6 @@
-## Hi there 👋
+💻 C# | Java | Python
+🔭 Fun side-projects and learning
+✉️ emilgramp@gmail.com
 
 <!--
 **Hy1st/Hy1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
