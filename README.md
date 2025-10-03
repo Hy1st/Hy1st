@@ -1,5 +1,6 @@
-💻 C# | Java | Python
-🔭 Fun side-projects and learning
+🎓 Software Engineering student @ University of Southern Denmark <br>
+💻 C# | Java | Python <br>
+🔭 Fun side-projects and learning <br>
 ✉️ emilgramp@gmail.com
 
 <!--
